@@ -13,7 +13,7 @@ os: Ubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 160
-url: [192.168.0.160](192.168.0.160)
+url: [192.168.0.160](http://192.168.0.160)
 user: root
 pass: pihole
 
@@ -23,7 +23,7 @@ os: Ubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 161
-url: [192.168.0.161](192.168.0.161)
+url: [192.168.0.161](http://192.168.0.161)
 uservm: root
 passvm: campus
 
@@ -34,7 +34,7 @@ os: Debian 9
 storage: wdgold01
 type: ct
 id: 164
-url: [192.168.0.164](192.168.0.164)
+url: [192.168.0.164](http://192.168.0.164)
 uservm: root
 passvm: icescrum
 userapp: admin
@@ -46,7 +46,7 @@ os: Debian 9
 storage: wdgold01
 type: ct
 id: 166
-url: [192.168.0.166](192.168.0.166)
+url: [192.168.0.166](http://192.168.0.166)
 uservm: root
 passvm: gitlab
 userapp: root
@@ -58,7 +58,7 @@ os: Ubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 200
-url: [192.168.0.200](192.168.0.200)
+url: [192.168.0.200](http://192.168.0.200)
 uservm: root
 passvm: wikijs
 userapp: itelnetworking@gmail.com
@@ -70,7 +70,7 @@ os: Lubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 162
-url: [192.168.0.162](192.168.0.162)
+url: [192.168.0.162](http://192.168.0.162)
 uservm: root
 passvm: matafuegos
 userapp: javier
