@@ -5,10 +5,10 @@
 [Router Movistar Fibra](https://192.168.1.1)
 	url: 192.168.1.1
 	pass: Pepiri8fanta$
-* * Router Mikrotik
+*  Router Mikrotik
 	user: admin
 	pass: !nola73
-* *Router Cisco
+* Router Cisco
 	user: admin
 	pass: quesitoderretido
 
