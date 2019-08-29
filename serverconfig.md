@@ -1,7 +1,7 @@
 <!-- TITLE: Servidores -->
 <!-- SUBTITLE: Información y tips en relación a la gestión de servidores -->
 
-#Agregar discos a Proxmox
+# Agregar discos a Proxmox
 Podemos agregar discos extras en Proxmox para se empleados por las máquinas virtuales o bien como espacio de almacenamiento. 
 
 Para poder agregar elementos de _storage_ primeramente tendremos que realizar algunas acciones empleando la terminal. 
