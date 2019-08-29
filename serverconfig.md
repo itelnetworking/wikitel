@@ -39,4 +39,21 @@ vgcreate WDGOLD01 /dev/sdc1
 
 Donde "WDGOLD01" es el nombre que se me ocurrió darle al grupo de volúmenes. 
 
+**Agregando storage a Proxmox**
+Finalmente, tendremos que agregar el disco a Proxmox desde la interfaz web de administración. Para ello, seleccionamos: 
+
+```apache_conf
+
+Datacenter / Storage / Add / LVM 
+```
+
+Se nos abrirá una ventana (Add LVM) donde tendremos que completar los siguientes campos: 
+
+* ID: Nombre que le queremos dar al disco
+* Volume group: Donde deberemos seleccionar el volumen creado en los pasos anteriores
+
+
+**Voilá!**
+Hemos finalizado. Si deseamos agregar otros discos, repetimos el procedimiento y listo!
+
 
