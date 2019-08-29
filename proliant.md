@@ -70,7 +70,7 @@ os: Lubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 162
-url: [192.168.0.162](http://192.168.0.162)
+url: [192.168.0.162](https://192.168.0.100:8006/?console=kvm&novnc=1&vmid=162&vmname=guti&node=proliant&resize=off&cmd=)
 uservm: root
 passvm: matafuegos
 userapp: javier
