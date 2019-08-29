@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Listado de Routers -->
 
 # Información sobre Routers
-## [Router Movistar Fibra](https://192.168.1.1)
+## [Router Movistar Fibra]
 	url: 192.168.1.1
 	pass: Pepiri8fanta$
 *Router Mikrotik
