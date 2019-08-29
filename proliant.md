@@ -36,7 +36,8 @@ id: 166
 url: 192.168.0.166
 uservm: root
 passvm: gitlab
-pass: matafuegO$
+userapp: root
+passapp: matafuegO$
 
 ## wiki.js
 site: proliant
