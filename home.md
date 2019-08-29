@@ -12,9 +12,7 @@ El presente espacio recopila teoría y servicios utilizando, siempre que sea pos
 * [Proxmox Proliant](proliant)
 * [Proxmox Lenovo](lenovo)
 
-#### Máquinas virtuales
-* [Maquinas Virtuales](maquinas)
-
 ### Dispositivos de red
 * [Routers](routers)
+* [Switchs](switchs)
 
