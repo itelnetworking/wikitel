@@ -49,3 +49,14 @@ passvm: wikijs
 userapp: itelnetworking@gmail.com
 passapp: matafuegos
 
+## guti
+site: proliant
+storage: local-zfs
+type: ct
+id: 162
+url: 192.168.0.162
+uservm: root
+passvm: matafuegos
+userapp: javier
+passapp: javier
+
