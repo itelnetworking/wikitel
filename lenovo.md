@@ -7,7 +7,7 @@
 * pass: matafuegos
 
 # Máquinas virtuales
-## service: pi-hole
+## pi-hole
 site: proliant
 storage: local-zfs
 type: ct
