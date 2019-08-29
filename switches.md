@@ -8,3 +8,9 @@ Se lista a continuación, información acerca de los switchs, como modelo, confi
 * modelo: HPE 1920s 24 ports
 * url: [http://192.168.0.196](http://192.168.0.196]) 
 
+
+### Switch 13
+* modelo: HPE 1920s 24 ports
+* url: [http://192.168.0.243](http://192.168.0.243])
+* name: switch_03 
+
