@@ -11,7 +11,7 @@ El presente espacio recopila teoría y servicios utilizando, siempre que sea pos
 ### Servidores
 * [Proxmox Proliant](proliant)
 * [Proxmox Lenovo](lenovo)
-* [Base de conocimiento](serverconfig)
+* [Configuraciones](serverconfig)
 
 ### Dispositivos de red
 * [Routers](routers)
