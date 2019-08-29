@@ -27,6 +27,19 @@ url: [192.168.0.161](192.168.0.161)
 uservm: root
 passvm: campus
 
+
+## icescrum
+site: proliant
+os: Debian 9
+storage: wdgold01
+type: ct
+id: 164
+url: [192.168.0.164](192.168.0.164)
+uservm: root
+passvm: icescrum
+userapp: admin
+passapp: matafuegO$
+
 ## gitlab
 site: proliant
 os: Debian 9
