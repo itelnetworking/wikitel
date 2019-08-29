@@ -9,8 +9,8 @@ El presente espacio recopila teoría y servicios utilizando, siempre que sea pos
 
 
 ### Servidores
-* [Proxmox Proliant](https://192.168.0.100:8006)
-* [Proxmox Lenovo](https://192.168.0.111:8006)
+* [Proxmox Proliant](proliant)
+* [Proxmox Lenovo](lenovo)
 
 #### Máquinas virtuales
 * [Maquinas Virtuales](maquinas)
