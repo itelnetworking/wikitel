@@ -40,6 +40,7 @@ pass: matafuegO$
 
 ## wiki.js
 site: proliant
+os: Ubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 200
@@ -51,6 +52,7 @@ passapp: matafuegos
 
 ## guti
 site: proliant
+os: Lubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 162
