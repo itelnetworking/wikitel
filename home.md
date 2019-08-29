@@ -1,7 +1,7 @@
 <!-- TITLE: Bienvenidos -->
 <!-- SUBTITLE: Bienvenidos a la wiki del ITEL -->
 
-# ¿Qué es la wiki? 
+# Portada
 El presente espacio recopila teoría y servicios utilizando, siempre que sea posible, software de código abierto.
 > **Sistema operativo utilizado en las prácticas**
 >  [Ubuntu Desktop 18.04.2 LTS](http://releases.ubuntu.com/18.04.2/ubuntu-18.04.2-desktop-amd64.iso)
