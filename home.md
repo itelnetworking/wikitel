@@ -1,4 +1,4 @@
-	 <!-- TITLE: BIenvenidos -->
+	 <!-- TITLE: Bienvenidos -->
 <!-- SUBTITLE: Bienvenidos a la wiki del ITEL -->
 
 # ¿Qué es la wiki? 
