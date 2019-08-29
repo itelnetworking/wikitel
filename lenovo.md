@@ -9,6 +9,7 @@
 # Máquinas virtuales
 ## pi-hole
 site: proliant
+os: Ubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 160
@@ -16,7 +17,9 @@ url: 192.168.0.160
 user: root
 pass: pihole
 
+## campus
 site: proliant
+os: Ubuntu 18.04 LTS
 storage: local-zfs
 type: ct
 id: 161
@@ -24,14 +27,18 @@ url: 192.168.0.161
 uservm: root
 passvm: campus
 
+## gitea
 site: proliant
+os: Debian 9
 storage: wdgold01
 type: ct
 id: 166
 url: 192.168.0.166
 uservm: root
-passvm: campus
+passvm: gitea
+pass: matafuegO$
 
+## wiki.js
 site: proliant
 storage: local-zfs
 type: ct
