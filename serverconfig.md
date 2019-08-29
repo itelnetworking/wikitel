@@ -7,7 +7,7 @@ Podemos agregar discos extras en Proxmox para se empleados por las máquinas vir
 Para poder agregar elementos de _storage_ primeramente tendremos que realizar algunas acciones empleando la terminal. 
 
 
-En primer lugar, listamos los discos disponibles:
+**Listamos los discos físicos**
 
 ```apache_conf
 fdisk -l
