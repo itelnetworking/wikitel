@@ -22,7 +22,21 @@ Recurriremos para este paso al comando `cfdisk`, seguido de la unidad de disco a
 cfdisk /dev/sdc
 ```
 
-Y nos aparecerá un menú interactivo para crear las particiones. En mi caso, solo crearé una partición, por lo tanto, quedará designada de la siguiente manera: `/dev/sdc1`. Para aplicar los cambios en el disco, debermos elegir la opción "Write".
+Y nos aparecerá un menú interactivo para crear las particiones. En mi caso, solo crearé una partición, por lo tanto, quedará designada de la siguiente manera: `/dev/sdc1` (ésta será la denomación que usaremos de ahora en más en este ejemplo para referirnos a la partición creada). Para aplicar los cambios en el disco, debermos elegir la opción "Write".
 
+**Usando LVM**
+Para convertir un disco al formato LVM, deberemos indicar que el mismo pasará a ser un PV (Pyshical Volume):
+
+```apache_conf
+pvcreate /dev/sdc1
+```
+
+Luego, crearemos un grupo de volumenes, procedemos: 
+
+```apache_conf
+vgcreate WDGOLD01 /dev/sdc1
+```
+
+Donde "WDGOLD01" es el nombre que se me ocurrió darle al grupo de volúmenes. 
 
 
