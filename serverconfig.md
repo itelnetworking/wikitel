@@ -43,7 +43,6 @@ Donde "WDGOLD01" es el nombre que se me ocurrió darle al grupo de volúmenes.
 Finalmente, tendremos que agregar el disco a Proxmox desde la interfaz web de administración. Para ello, seleccionamos: 
 
 ```apache_conf
-
 Datacenter / Storage / Add / LVM 
 ```
 
