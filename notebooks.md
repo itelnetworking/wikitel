@@ -1,5 +1,5 @@
 <!-- TITLE: NoteBooks -->
-<!-- SUBTITLE: (0.200-0.219).-->
+<!-- SUBTITLE: (0.200-0.219)-->
 
 # Direcciones
 * [PC1 192.168.200](192.168.200)
