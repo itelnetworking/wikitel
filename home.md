@@ -17,4 +17,9 @@ El presente espacio recopila teoría y servicios utilizando, siempre que sea pos
 * [Routers](routers)
 * [Switches](switches)
 * [Cámaras](camaras)
+### Direcciones IP de las aulas
+* [Lab1](laboratorio1)
+* [Lab2](laboratorio2)
+* [Lab3](laboratorio3)
+* [Lab4](laboratorio4)
 
