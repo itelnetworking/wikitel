@@ -1,5 +1,5 @@
 <!-- TITLE: Laboratorio 1 -->
-<!-- SUBTITLE: Se deja un margen de 10 direcciones para futuros nodos (0.20-0.30).-->
+<!-- SUBTITLE:(0.20-0.30).-->
 
 # Direcciones
 * [PC1 192.168.20](192.168.20)
