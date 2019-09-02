@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Se deja un margen de 10 direcciones para futuros nodos (0.20-0.30).-->
 
 # Direcciones
-* [PC1]* (192.168.20)
+* [PC1 192.168.20](192.168.20)
 * [PC2]* (192.168.21)
 * [PC3]* (192.168.22)
 * [PC4]* (192.168.23)
